@@ -7,7 +7,7 @@ then the vector contain Q+1 elements.
 
 If the thresholds are {1, 5} then: 
 
-If x = 7 then the threshold decomposition of x is [1, 4, 2].
+If $x = 7$ then the threshold decomposition of x is [1, 4, 2].
 
 If x = 4 then the threshold decomposition of x is [1, 3, 0].
 
